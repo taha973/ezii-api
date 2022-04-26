@@ -1,7 +1,16 @@
+body {
+  background-color: red;
+  color: white;
+}
 .App {
   text-align: center;
 }
-
+.header {
+  margin-top: 5em;
+  font-size: 3em;
+  background-color: yellow;
+  color: blue;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
